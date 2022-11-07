@@ -7,4 +7,4 @@
 
 string tempvar = 'Enter_your_name_here';
 System.debug('Hello World!');
-System.debug('My name is  Kenny' + tempvar);
+System.debug('My name is  Kenny. How are you?' + tempvar);
